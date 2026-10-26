@@ -4,7 +4,8 @@
 # Asphalt: Urban GT 2 – Édition NumWorks
 
 Port NumWorks par **yamii** (Discord : `cjnw`) – serveur : https://discord.gg/sti2d
-publié par derim https://discord.gg/derim
+
+Publié par derim https://discord.gg/derim
 
 Un remake arcade d'*Asphalt: Urban GT 2* (Nintendo DS) écrit en C pour la calculatrice NumWorks.
 Il a été entièrement reconstruit pour la calculatrice. Le ROM DS (32 Mo, en vraie 3D) ne peut pas tourner sur une NumWorks.
